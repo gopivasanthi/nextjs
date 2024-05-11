@@ -10,7 +10,6 @@ type StyleguideFieldUsageContentListProps = ComponentProps &
       localContentList: Item[];
     };
   };
-  
 /**
  * Demonstrates usage of a Content List field type within JSS.
  * Content Lists are references to 0..n other content items.
